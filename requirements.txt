@@ -1,0 +1,1 @@
+gradio, pdfminer.six, scikit-learn, pandas, plotly.
